@@ -372,6 +372,12 @@ plan's living status.`;
 //   T2: investigate, cso, retro, doc-release, setup-deploy, canary
 //   T3: autoplan, codex, design-consult, office-hours, ceo/design/eng-review
 //   T4: ship, review, qa, qa-only, design-review, land-deploy
+function generateLanguageInstruction(): string {
+  return `## Output Language
+
+すべての出力・説明・エラーメッセージは**日本語**で記述すること。コードやコマンド自体は英語のままでよいが、説明文・提案・質問・ステータス報告はすべて日本語で行う。`;
+}
+
 export function generatePreamble(ctx: TemplateContext): string {
   const tier = ctx.preambleTier ?? 4;
   if (tier < 1 || tier > 4) {
@@ -380,6 +386,7 @@ export function generatePreamble(ctx: TemplateContext): string {
   const sections = [
     generatePreambleBash(ctx),
     generateUpgradeCheck(ctx),
+    generateLanguageInstruction(),
     generateLakeIntro(),
     generateTelemetryPrompt(ctx),
     ...(tier >= 2 ? [generateAskUserFormat(ctx), generateCompletenessSection()] : []),
