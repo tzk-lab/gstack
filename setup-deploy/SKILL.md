@@ -10,6 +10,7 @@ description: |
   the configuration to CLAUDE.md so all future deploys are automatic.
   Use when: "setup deploy", "configure deployment", "set up land-and-deploy",
   "how do I deploy with gstack", "add deploy config".
+  日本語での指示例：「デプロイを設定して」「デプロイ設定を追加して」「gstackでどうデプロイする？」。
 allowed-tools:
   - Bash
   - Read

@@ -10,6 +10,7 @@ description: |
   expansions), HOLD SCOPE (maximum rigor), SCOPE REDUCTION (strip to essentials).
   Use when asked to "think bigger", "expand scope", "strategy review", "rethink this",
   or "is this ambitious enough".
+  日本語での指示例：「もっと大きく考えて」「スコープを拡大して」「戦略レビューして」「このプランを再考して」。
   Proactively suggest when the user is questioning scope or ambition of a plan,
   or when the plan feels like it could be thinking bigger.
 benefits-from: [office-hours]

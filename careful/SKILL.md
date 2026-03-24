@@ -8,6 +8,7 @@ description: |
   User can override each warning. Use when touching prod, debugging live systems,
   or working in a shared environment. Use when asked to "be careful", "safety mode",
   "prod mode", or "careful mode".
+  日本語での指示例：「慎重に進めて」「安全モードで」「本番モードで」「破壊的操作に警告を出して」。
 allowed-tools:
   - Bash
   - Read

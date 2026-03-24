@@ -8,6 +8,7 @@ description: |
   "fixing" unrelated code, or when you want to scope changes to one module.
   Use when asked to "freeze", "restrict edits", "only edit this folder",
   or "lock down edits".
+  日本語での指示例：「フリーズして」「このフォルダだけ編集して」「編集を制限して」「他のファイルは触らないで」。
 allowed-tools:
   - Bash
   - Read

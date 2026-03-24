@@ -9,6 +9,7 @@ description: |
   generates font+color preview pages. Creates DESIGN.md as your project's design source
   of truth. For existing sites, use /plan-design-review to infer the system instead.
   Use when asked to "design system", "brand guidelines", or "create DESIGN.md".
+  日本語での指示例：「デザインシステムを作って」「ブランドガイドラインを決めて」「DESIGN.mdを作成して」。
   Proactively suggest when starting a new project's UI with no existing
   design system or DESIGN.md.
 allowed-tools:

@@ -10,6 +10,7 @@ description: |
   ~100ms per command. Use when you need to test a feature, verify a deployment, dogfood a
   user flow, or file a bug with evidence. Use when asked to "open in browser", "test the
   site", "take a screenshot", or "dogfood this".
+  日本語での指示例：「ブラウザで開いて」「サイトをテストして」「スクリーンショットを撮って」「デプロイを確認して」。
 allowed-tools:
   - Bash
   - Read

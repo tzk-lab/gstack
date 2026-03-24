@@ -9,6 +9,7 @@ description: |
   then fixes the plan to get there. Works in plan mode. For live site
   visual audits, use /design-review. Use when asked to "review the design plan"
   or "design critique".
+  日本語での指示例：「デザインプランをレビューして」「デザイン批評して」「UI/UXを確認して」。
   Proactively suggest when the user has a plan with UI/UX components that
   should be reviewed before implementation.
 allowed-tools:

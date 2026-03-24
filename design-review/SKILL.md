@@ -9,6 +9,7 @@ description: |
   in source code, committing each fix atomically and re-verifying with before/after
   screenshots. For plan-mode design review (before implementation), use /plan-design-review.
   Use when asked to "audit the design", "visual QA", "check if it looks good", or "design polish".
+  日本語での指示例：「デザインを監査して」「見た目を確認して」「ビジュアルQA」「デザインを改善して」。
   Proactively suggest when the user mentions visual inconsistencies or
   wants to polish the look of a live site.
 allowed-tools:

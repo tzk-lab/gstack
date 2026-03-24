@@ -9,6 +9,7 @@ description: |
   Compares before/after on every PR. Tracks performance trends over time.
   Use when: "performance", "benchmark", "page speed", "lighthouse", "web vitals",
   "bundle size", "load time".
+  日本語での指示例：「パフォーマンス測定して」「ベンチマークを実行して」「ページ速度を確認して」「バンドルサイズを測定して」。
 allowed-tools:
   - Bash
   - Read

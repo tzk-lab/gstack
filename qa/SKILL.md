@@ -8,6 +8,7 @@ description: |
   then iteratively fixes bugs in source code, committing each fix atomically and
   re-verifying. Use when asked to "qa", "QA", "test this site", "find bugs",
   "test and fix", or "fix what's broken".
+  日本語での指示例：「QAテストして」「サイトをテストして」「バグを見つけて修正して」「動作確認して」。
   Proactively suggest when the user says a feature is ready for testing
   or asks "does this work?". Three tiers: Quick (critical/high only),
   Standard (+ medium), Exhaustive (+ cosmetic). Produces before/after health scores,

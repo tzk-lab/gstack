@@ -10,6 +10,7 @@ description: |
   Two modes: daily (zero-noise, 8/10 confidence gate) and comprehensive (monthly deep
   scan, 2/10 bar). Trend tracking across audit runs.
   Use when: "security audit", "threat model", "pentest review", "OWASP", "CSO review".
+  日本語での指示例：「セキュリティ監査して」「脆弱性を調べて」「セキュリティレビューして」「OWASP確認して」。
 allowed-tools:
   - Bash
   - Read

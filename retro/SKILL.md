@@ -8,6 +8,7 @@ description: |
   and code quality metrics with persistent history and trend tracking.
   Team-aware: breaks down per-person contributions with praise and growth areas.
   Use when asked to "weekly retro", "what did we ship", or "engineering retrospective".
+  日本語での指示例：「週次レトロして」「今週何をリリースした？」「エンジニアリングレトロ」「振り返りして」。
   Proactively suggest at the end of a work week or sprint.
 allowed-tools:
   - Bash

@@ -8,6 +8,7 @@ description: |
   /freeze (blocks edits outside a specified directory). Use for maximum safety
   when touching prod or debugging live systems. Use when asked to "guard mode",
   "full safety", "lock it down", or "maximum safety".
+  日本語での指示例：「ガードモードで」「完全な安全モードで」「ロックダウンして」「最大限の安全策で進めて」。
 allowed-tools:
   - Bash
   - Read

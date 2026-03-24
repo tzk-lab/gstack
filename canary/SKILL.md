@@ -9,6 +9,7 @@ description: |
   periodic screenshots, compares against pre-deploy baselines, and alerts
   on anomalies. Use when: "monitor deploy", "canary", "post-deploy check",
   "watch production", "verify deploy".
+  日本語での指示例：「デプロイを監視して」「カナリア監視して」「本番を監視して」「デプロイ後に確認して」。
 allowed-tools:
   - Bash
   - Read
